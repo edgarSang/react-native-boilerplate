@@ -1,0 +1,40 @@
+dependencies: \
+  /Users/kimjongmin/work/personal-project/react-native-boilerplate/ios/Pods/ExpoKit/ios/Exponent/Versioned/Modules/Api/EXGoogle.m \
+  /Users/kimjongmin/work/personal-project/react-native-boilerplate/ios/Pods/Target\ Support\ Files/ExpoKit/ExpoKit-prefix.pch \
+  /Users/kimjongmin/work/personal-project/react-native-boilerplate/ios/Pods/ExpoKit/ios/Exponent/Versioned/Modules/Api/EXGoogle.h \
+  /Users/kimjongmin/work/personal-project/react-native-boilerplate/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/kimjongmin/work/personal-project/react-native-boilerplate/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/kimjongmin/work/personal-project/react-native-boilerplate/ios/Pods/Headers/Private/GoogleSignIn/GoogleSignIn.h \
+  /Users/kimjongmin/work/personal-project/react-native-boilerplate/ios/Pods/Headers/Private/GoogleSignIn/GIDAuthentication.h \
+  /Users/kimjongmin/work/personal-project/react-native-boilerplate/ios/Pods/Headers/Private/GoogleSignIn/GIDGoogleUser.h \
+  /Users/kimjongmin/work/personal-project/react-native-boilerplate/ios/Pods/Headers/Private/GoogleSignIn/GIDProfileData.h \
+  /Users/kimjongmin/work/personal-project/react-native-boilerplate/ios/Pods/Headers/Private/GoogleSignIn/GIDSignIn.h \
+  /Users/kimjongmin/work/personal-project/react-native-boilerplate/ios/Pods/Headers/Private/GoogleSignIn/GIDSignInButton.h \
+  /Users/kimjongmin/work/personal-project/react-native-boilerplate/ios/Pods/Headers/Public/AppAuth/AppAuth.h \
+  /Users/kimjongmin/work/personal-project/react-native-boilerplate/ios/Pods/Headers/Public/AppAuth/OIDAuthState.h \
+  /Users/kimjongmin/work/personal-project/react-native-boilerplate/ios/Pods/Headers/Public/AppAuth/OIDAuthStateChangeDelegate.h \
+  /Users/kimjongmin/work/personal-project/react-native-boilerplate/ios/Pods/Headers/Public/AppAuth/OIDAuthStateErrorDelegate.h \
+  /Users/kimjongmin/work/personal-project/react-native-boilerplate/ios/Pods/Headers/Public/AppAuth/OIDAuthorizationRequest.h \
+  /Users/kimjongmin/work/personal-project/react-native-boilerplate/ios/Pods/Headers/Public/AppAuth/OIDResponseTypes.h \
+  /Users/kimjongmin/work/personal-project/react-native-boilerplate/ios/Pods/Headers/Public/AppAuth/OIDScopes.h \
+  /Users/kimjongmin/work/personal-project/react-native-boilerplate/ios/Pods/Headers/Public/AppAuth/OIDAuthorizationResponse.h \
+  /Users/kimjongmin/work/personal-project/react-native-boilerplate/ios/Pods/Headers/Public/AppAuth/OIDAuthorizationService.h \
+  /Users/kimjongmin/work/personal-project/react-native-boilerplate/ios/Pods/Headers/Public/AppAuth/OIDAuthorizationUICoordinator.h \
+  /Users/kimjongmin/work/personal-project/react-native-boilerplate/ios/Pods/Headers/Public/AppAuth/OIDError.h \
+  /Users/kimjongmin/work/personal-project/react-native-boilerplate/ios/Pods/Headers/Public/AppAuth/OIDErrorUtilities.h \
+  /Users/kimjongmin/work/personal-project/react-native-boilerplate/ios/Pods/Headers/Public/AppAuth/OIDGrantTypes.h \
+  /Users/kimjongmin/work/personal-project/react-native-boilerplate/ios/Pods/Headers/Public/AppAuth/OIDRegistrationRequest.h \
+  /Users/kimjongmin/work/personal-project/react-native-boilerplate/ios/Pods/Headers/Public/AppAuth/OIDRegistrationResponse.h \
+  /Users/kimjongmin/work/personal-project/react-native-boilerplate/ios/Pods/Headers/Public/AppAuth/OIDScopeUtilities.h \
+  /Users/kimjongmin/work/personal-project/react-native-boilerplate/ios/Pods/Headers/Public/AppAuth/OIDServiceConfiguration.h \
+  /Users/kimjongmin/work/personal-project/react-native-boilerplate/ios/Pods/Headers/Public/AppAuth/OIDServiceDiscovery.h \
+  /Users/kimjongmin/work/personal-project/react-native-boilerplate/ios/Pods/Headers/Public/AppAuth/OIDTokenRequest.h \
+  /Users/kimjongmin/work/personal-project/react-native-boilerplate/ios/Pods/Headers/Public/AppAuth/OIDTokenResponse.h \
+  /Users/kimjongmin/work/personal-project/react-native-boilerplate/ios/Pods/Headers/Public/AppAuth/OIDTokenUtilities.h \
+  /Users/kimjongmin/work/personal-project/react-native-boilerplate/ios/Pods/Headers/Public/AppAuth/OIDAuthState+IOS.h \
+  /Users/kimjongmin/work/personal-project/react-native-boilerplate/ios/Pods/Headers/Public/AppAuth/OIDAuthorizationService+IOS.h \
+  /Users/kimjongmin/work/personal-project/react-native-boilerplate/ios/Pods/Headers/Public/AppAuth/OIDAuthorizationUICoordinatorIOS.h \
+  /Users/kimjongmin/work/personal-project/react-native-boilerplate/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/kimjongmin/work/personal-project/react-native-boilerplate/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/kimjongmin/work/personal-project/react-native-boilerplate/ios/Pods/ExpoKit/ios/Exponent/Versioned/Modules/Api/OAuthViewController/EXOAuthViewController.h \
+  /Users/kimjongmin/work/personal-project/react-native-boilerplate/ios/Pods/ExpoKit/ios/Exponent/Versioned/EXUnversioned.h

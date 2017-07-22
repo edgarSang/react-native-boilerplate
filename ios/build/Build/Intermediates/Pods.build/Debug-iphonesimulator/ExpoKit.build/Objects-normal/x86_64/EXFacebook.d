@@ -1,0 +1,37 @@
+dependencies: \
+  /Users/kimjongmin/work/personal-project/react-native-boilerplate/ios/Pods/ExpoKit/ios/Exponent/Versioned/Modules/Api/EXFacebook.m \
+  /Users/kimjongmin/work/personal-project/react-native-boilerplate/ios/Pods/Target\ Support\ Files/ExpoKit/ExpoKit-prefix.pch \
+  /Users/kimjongmin/work/personal-project/react-native-boilerplate/ios/Pods/ExpoKit/ios/Exponent/Versioned/Modules/Api/EXFacebook.h \
+  /Users/kimjongmin/work/personal-project/react-native-boilerplate/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/kimjongmin/work/personal-project/react-native-boilerplate/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/kimjongmin/work/personal-project/react-native-boilerplate/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/kimjongmin/work/personal-project/react-native-boilerplate/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/kimjongmin/work/personal-project/react-native-boilerplate/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit.h \
+  /Users/kimjongmin/work/personal-project/react-native-boilerplate/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKAccessToken.h \
+  /Users/kimjongmin/work/personal-project/react-native-boilerplate/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKCopying.h \
+  /Users/kimjongmin/work/personal-project/react-native-boilerplate/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKGraphRequestConnection.h \
+  /Users/kimjongmin/work/personal-project/react-native-boilerplate/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKMacros.h \
+  /Users/kimjongmin/work/personal-project/react-native-boilerplate/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKAppEvents.h \
+  /Users/kimjongmin/work/personal-project/react-native-boilerplate/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKApplicationDelegate.h \
+  /Users/kimjongmin/work/personal-project/react-native-boilerplate/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKButton.h \
+  /Users/kimjongmin/work/personal-project/react-native-boilerplate/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKConstants.h \
+  /Users/kimjongmin/work/personal-project/react-native-boilerplate/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKGraphRequest.h \
+  /Users/kimjongmin/work/personal-project/react-native-boilerplate/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKGraphRequestDataAttachment.h \
+  /Users/kimjongmin/work/personal-project/react-native-boilerplate/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKSettings.h \
+  /Users/kimjongmin/work/personal-project/react-native-boilerplate/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKTestUsersManager.h \
+  /Users/kimjongmin/work/personal-project/react-native-boilerplate/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKUtility.h \
+  /Users/kimjongmin/work/personal-project/react-native-boilerplate/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKAppLinkResolver.h \
+  /Users/kimjongmin/work/personal-project/react-native-boilerplate/ios/Pods/Bolts/Bolts/iOS/BFAppLinkResolving.h \
+  /Users/kimjongmin/work/personal-project/react-native-boilerplate/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKAppLinkUtility.h \
+  /Users/kimjongmin/work/personal-project/react-native-boilerplate/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKGraphErrorRecoveryProcessor.h \
+  /Users/kimjongmin/work/personal-project/react-native-boilerplate/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKMutableCopying.h \
+  /Users/kimjongmin/work/personal-project/react-native-boilerplate/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKProfile.h \
+  /Users/kimjongmin/work/personal-project/react-native-boilerplate/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKProfilePictureView.h \
+  /Users/kimjongmin/work/personal-project/react-native-boilerplate/ios/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit.h \
+  /Users/kimjongmin/work/personal-project/react-native-boilerplate/ios/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginButton.h \
+  /Users/kimjongmin/work/personal-project/react-native-boilerplate/ios/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginManager.h \
+  /Users/kimjongmin/work/personal-project/react-native-boilerplate/ios/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKTooltipView.h \
+  /Users/kimjongmin/work/personal-project/react-native-boilerplate/ios/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginConstants.h \
+  /Users/kimjongmin/work/personal-project/react-native-boilerplate/ios/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginManagerLoginResult.h \
+  /Users/kimjongmin/work/personal-project/react-native-boilerplate/ios/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginTooltipView.h \
+  /Users/kimjongmin/work/personal-project/react-native-boilerplate/ios/Pods/Headers/Private/../Private/FBSDKCoreKit/FBSDKInternalUtility.h
