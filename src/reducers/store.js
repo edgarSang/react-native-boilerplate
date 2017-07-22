@@ -1,12 +1,14 @@
-import { applyMiddleware, createStore } from 'redux';
+import { applyMiddleware, compose, createStore } from 'redux';
 import reducer from './index';
 
-// Logger with defualt options
-import logger from 'redux-logger';
+import logger from './middleware/logger';
 
-const store = createStore(
-  reducer,
-  applyMiddleware(logger)
-);
+const middlewares = [];
+
+if (process.env.NODE_ENV === 'development') {
+  middlewares.push(logger);
+}
+
+const store = compose(applyMiddleware(...middlewares))(createStore)(reducer);
 
 export default store;
